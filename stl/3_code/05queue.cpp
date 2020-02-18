@@ -34,7 +34,7 @@ void print(queue<int> &q)
 int main(void)
 {
 	queue<int> &q = construtor();
-  print(q);	
+    print(q);	
 
 	return 0;
 }
